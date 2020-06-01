@@ -27,8 +27,8 @@ text-decoration: none;
 }
 
 .About{
-    display: inline-block;
-    float: left;
+   
+ float:left;
 }
 
 
@@ -55,6 +55,12 @@ a:active{
     width: 80%;
     margin: auto;
 }
+
+.about{
+  display:flex;
+  justify-content:center;
+}
+
 
 .button{
     background-color: #333333;
